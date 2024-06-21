@@ -28,7 +28,8 @@ header .medido{
 
 header div img{
     padding-top: 3px;
-    height: 54px;
+    max-height: 54px;
+    max-width:3.2cm;
     cursor: pointer;
 }
 
